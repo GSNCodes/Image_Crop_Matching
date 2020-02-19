@@ -1,0 +1,10 @@
+The packages that were used:-
+
+	-cv2 (opencv-contrib-python [Version = 3.4.2.16])
+	-numpy
+	-os
+	-json
+	-urllib
+	-PIL
+
+The code was tested in Pycharm IDE with python version 3.7
