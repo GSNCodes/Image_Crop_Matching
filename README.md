@@ -9,7 +9,7 @@ Cheers!
 
 The images for this program were taken from urls of the image directly. You can easily modify it to access your stored images in your folders.
 
-The core concept used here is the Scale Invariant Feature Transform (SIFT). This provides us immunity against the rotated and different sized images. Please google and try to understand the concept of the same. It'll really be pretty useful :p
+The core concept used here is the Scale Invariant Feature Transform (SIFT). This provides us immunity against varying rotation and size of images. Please google and try to understand the concept of the same. It'll really be pretty useful :p
 
 
 The two main python files are :- 
